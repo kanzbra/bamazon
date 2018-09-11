@@ -35,6 +35,9 @@
  ## ScreenShots
  ![Screenshot of bamazon.js](https://github.com/kanzbra/bamazon/tree/master/images/bamazon.png)
  ![Screenshot of bamazonManager.js](https://github.com/kanzbra/bamazon/tree/master/images/bamazon.png)
+ 
+ ## VideoDemo
+ (https://drive.google.com/file/d/1f9ChnHy8pd7EfpG0DqAKWm-oniIskz3n/view)
     
  ## Techonologies used & Built With
  * Node.js
