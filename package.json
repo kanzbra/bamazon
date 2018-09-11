@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Influenced by Amazon-store front, combines Node.js and MySQL",
+  "main": "bamazon.js",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "customer": "node bamazon.js",
+    "manager": "node BamazonManager.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanzbra/bamazon.git"
+  },
+
+  "keywords": [],
+  "author": "Kanzbra Rasid",
+  "license": "ISC"
+}
