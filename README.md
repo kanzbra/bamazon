@@ -48,4 +48,4 @@
  * Terminal/Gitbash
 
 ## Authors
- * Kanzbra Rasshid
+ * Kanzbra Rashid
