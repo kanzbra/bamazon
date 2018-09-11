@@ -33,7 +33,7 @@
       *Based on what the Manager selects when prompted with the avove listed options, it will output the action
     
  ## ScreenShots
- ![Screenshot of bamazon](https://github.com/kanzbra/bamazon/tree/master/images/bamazon)
+ ![Screenshot of bamazon](https://github.com/kanzbra/bamazon/tree/master/images/bamazon.png)
    
     
  ## Techonologies used & Built With
