@@ -34,7 +34,7 @@
     
  ## ScreenShots
  
-    [ScreenShot of bamazon.js](bamazon/images/bamazon.png)
+    ![ScreenShot of bamazon.js](bamazon.png)
     [ScreenShot of bamazonManager.js](bamazon/images/bamazonManager.png)
     
  ## Techonologies used & Built With
