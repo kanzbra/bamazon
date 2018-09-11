@@ -33,9 +33,8 @@
       *Based on what the Manager selects when prompted with the avove listed options, it will output the action
     
  ## ScreenShots
- 
-    ![ScreenShot of bamazon.js](bamazon.png)
-    [ScreenShot of bamazonManager.js](bamazon/images/bamazonManager.png)
+ ![Screenshot of bamazon](https://github.com/kanzbra/bamazon/tree/master/images/bamazon)
+   
     
  ## Techonologies used & Built With
  * Node.js
